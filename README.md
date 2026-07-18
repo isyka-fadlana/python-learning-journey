@@ -10,7 +10,9 @@ Aspiring AI Systems Engineer — building skills from scratch toward production-
 - [x] Day 4 — Pandas (DataFrame, filtering, sorting, statistics)
 - [x] Day 5 — NumPy (arrays, 2D arrays, math operations)
 - [x] Day 6 — Git & GitHub (workflow, branching, merging)
-- [ ] Day 7+ — In progress...
+- [x] Day 7 — OOP Basics (Class, Object, Method)
+- [x] Day 8 — Inheritance (super(), method override)
+- [ ] Day 9+ — In progress...
 
 ## 🛠️ Tools & Skills
 
