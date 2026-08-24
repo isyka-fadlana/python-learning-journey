@@ -39,3 +39,4 @@ shapes =[Square(1), Circle(1)]
 
 for shape in shapes:
         print(shape.area())
+
