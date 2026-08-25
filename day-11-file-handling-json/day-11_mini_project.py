@@ -57,6 +57,6 @@ def show_contacts():
         return pd.DataFrame(contact_data)
 
 
-add_new_contact = add_contact("Jane Smith", "111-222-3333", "jane.smith@example.com")
-print(add_new_contact)
+
+print(add_contact("Jane Smith", "111-222-3333", "jane.smith@example.com"))
 print(show_contacts())
