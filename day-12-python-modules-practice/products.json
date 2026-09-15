@@ -1,0 +1,7 @@
+[
+    {"name": "Laptop", "price": 1500, "quantity": 10},
+    {"name": "Smartphone", "price": 800, "quantity": 20},
+    {"name": "Headphones", "price": 150, "quantity": 30},
+    {"name": "Headphones", "price": -150, "quantity": 30},
+    {"name": "Broken Item", "price": -100, "quantity": 2}
+]
