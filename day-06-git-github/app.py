@@ -1,0 +1,5 @@
+print ("Hello, Git!")
+print ("Learning Git is fun!")
+print ("Day 06: Working with Git")
+print("Welcome to feature branch")
+print("This line exists only in feature/greeting") 
